@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="add">res/address_book_add_256px_515210_easyicon.net.png</file>
+        <file alias="edit">res/address_book_edit_256px_515211_easyicon.net.png</file>
+        <file alias="remove">res/address_book_remove_256px_515212_easyicon.net.png</file>
+        <file alias="search">res/address_book_search_256px_515213_easyicon.net.png</file>
+        <file alias="icon">res/addressbook_phonebook_128px_11247_easyicon.net.ico</file>
+        <file>res/addressbook_phonebook_128px_11247_easyicon.net.png</file>
+        <file alias="background">res/photo.png</file>
+        <file alias="logout">res/logout256.png</file>
+        <file alias="back">res/btn-back.png</file>
+    </qresource>
+</RCC>

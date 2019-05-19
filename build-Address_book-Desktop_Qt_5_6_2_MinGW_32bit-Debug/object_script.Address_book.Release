@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mysql.o
+./release\clientwindow.o
+./release\mypushbutton.o
+./release\info_window.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+./release\moc_mysql.o
+./release\moc_clientwindow.o
+./release\moc_mypushbutton.o
+./release\moc_info_window.o
+);
